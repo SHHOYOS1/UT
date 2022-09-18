@@ -1,0 +1,28 @@
+.row{
+    padding: 50px;
+}
+div{
+    background-color: #fff3e0;
+text-align: center;
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+min-width :auto;
+ 
+
+}
+
+div{
+    background-color:  #fff3e0;
+text-align: center;
+font-size: 20 'Times New Roman', Times, serif;
+font-style: italic;
+
+}
+h1,h3{display: inline;}
+.row{padding: 1px;}
+circle-progress  {float: left;
+    width: 140px;
+    padding: 80px; display: inline;  
+   }
+  

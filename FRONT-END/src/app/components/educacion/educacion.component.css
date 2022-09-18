@@ -1,0 +1,14 @@
+.row{
+    padding: 60px;
+}
+div{
+    background-color: #fff3e0;
+text-align: center;
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+min-width :auto;
+ 
+
+}
+h1,h3{display: inline;}
